@@ -1,0 +1,35 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.gemini/
+
+.agents/
+.agent/
+参考logo/
+
+# Datawhale Template
+node_modules/
+docs/.vitepress/dist
+docs/.vitepress/cache
+
+# Ignore Promo & Local Scripts
+修改计划.md
+宣传推文-公众号-优化版.md
+宣传推文-公众号.md
+figure.png
+figure.py
+推文图/
